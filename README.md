@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Hi there! I'm Abhishek Raj, a passionate software engineer enthusiastic about mastering C++ and diving deep into Data Structures and Algorithms. Currently, I'm exploring the fascinating world of Amazon Web Services (AWS) to expand my skill set and contribute to cloud-based solutions.
+
+💻 I love coding in C++ and enjoy solving challenging problems, especially those related to data manipulation and algorithm optimization. My journey in software development has led me to embrace the importance of efficient algorithms and clean, maintainable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj8693&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj8693" /> </p>
 
