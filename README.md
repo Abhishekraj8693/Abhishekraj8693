@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
-<h3 align="center">👋 Hi! I'm Abhishek Raj, a software engineer passionate about C++, DSA, and AWS. Learning new things and solving challenging problems excite me. Let's connect and collaborate on innovative projects!</h3>
+<h3 align="center">A software engineer passionate about C++, DSA, and AWS. Learning new things and solving challenging problems excite me. Let's connect and collaborate on innovative projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj8693&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj8693" /> </p>
 
